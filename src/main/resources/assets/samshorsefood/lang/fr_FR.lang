@@ -1,0 +1,15 @@
+itemGroup.tabHorseFood=Horse Food
+item.horse_upgrade_health.name=Carotte en diamant
+item.horse_upgrade_type.name=Carotte en émeraude
+item.horse_upgrade_variant.name=Carotte en lapis
+item.horse_upgrade_speed.name=Carotte v
+item.horse_upgrade_jump.name=Carotte s
+item.horse_upgrade_health.effect=Santé
+item.horse_upgrade_type.effect=Type
+item.horse_upgrade_variant.effect=Variante
+item.horse_upgrade_speed.effect=Vitesse
+item.horse_upgrade_speed.name=Carotte de Redstone
+item.horse_upgrade_jump.effect=Saut
+item.horse_upgrade_jump.name=Carotte du Néant
+debug.horsespeed=Vitesse du cheval :
+debug.horsejump=Saut du cheval :
